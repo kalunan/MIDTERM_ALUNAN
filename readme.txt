@@ -1,5 +1,5 @@
 ====OVERVIEW====
-The CASYOW Calculator App - Aldana Edition is a simple, responsive, and easy-to-use calculator designed for basic arithmetic calculations. 
+The CASYOW BOTANY Calculator - Aldana Edition is a simple, responsive, and easy-to-use calculator designed for basic arithmetic calculations. 
 Inspired by the classic CASIO calculator style, this web app allows users to perform addition, subtraction, multiplication, 
 and division with a clean and intuitive interface.
 
